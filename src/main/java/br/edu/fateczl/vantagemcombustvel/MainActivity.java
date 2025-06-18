@@ -1,6 +1,6 @@
 /*
-@author: Alvaro Dias
-RA: 1110482223004
+@author: Beatriz Silva
+RA: 1110482213028
  */
 package br.edu.fateczl.vantagemcombustvel;
 
